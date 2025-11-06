@@ -1,0 +1,39 @@
+# Large Data Files
+*.csv
+th_ais_*.csv
+filtered_*.csv
+
+# Results and outputs
+results/
+filtered_daily/
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# Log files
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
